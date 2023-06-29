@@ -1,0 +1,154 @@
+[
+  {
+    "concernsId": 1,
+    "concernsName": "hyperactive",
+    "concernCategory": "behavior",
+    "concernSubject": "attention",
+    "concernTopic": "roaming",
+    "concernDescription": "A hyperactive child displaying roaming behavior in the classroom or home may exhibit excessive movement, restlessness, and a persistent need to explore or move around the environment. The roaming behavior may be a result of the child seeking sensory stimulation, attention, or a sense of control. Understanding and addressing the underlying factors contributing to the hyperactivity and roaming tendencies can be beneficial in supporting the child's engagement, focus, and overall behavior in the learning environment."
+  },
+  {
+    "concernsId": 2,
+    "concernsName": "does not pay attention",
+    "concernCategory": "behavior",
+    "concernSubject": "focus",
+    "concernTopic": "in-attention",
+    "concernDescription": "A child displaying inattentive behavior in the classroom or home may struggle with maintaining focus, being easily distracted, and having difficulty following instructions. Addressing the underlying factors contributing to the inattentiveness can be beneficial in supporting the child's engagement, concentration, and overall behavior in the learning environment."
+  },
+  {
+    "concernsId": 3,
+    "concernsName": "does not care",
+    "concernCategory": "behavior",
+    "concernSubject": "developmental issues",
+    "concernTopic": "apathy",
+    "concernDescription": "A child displaying apathetic behavior in the classroom or home may exhibit a lack of interest, motivation, or enthusiasm towards tasks or activities. Understanding and addressing the underlying factors contributing to the apathy can be beneficial in fostering the child's engagement, curiosity, and overall behavior in the learning environment."
+  },
+  {
+    "concernsId": 4,
+    "concernsName": "chatting",
+    "concernCategory": "behavior",
+    "concernSubject": "attention",
+    "concernTopic": "off-task talking",
+    "concernDescription": "A child engaging in off-task talking in the classroom or home may frequently engage in unnecessary or unrelated conversations, disrupting the learning environment. Implementing strategies to promote focused and attentive behavior can be beneficial in encouraging the child to stay on task and contribute positively to the learning environment."
+  },
+  {
+    "concernsId": 5,
+    "concernsName": "immature",
+    "concernCategory": "behavior",
+    "concernSubject": "developmental issues",
+    "concernTopic": "off-task",
+    "concernDescription": "A child displaying off-task behavior in the classroom or home may exhibit a lack of focus, easily getting distracted, and engaging in activities that are not relevant to the task at hand. Addressing the underlying factors contributing to the immature behavior and promoting age-appropriate focus and task engagement can be beneficial in fostering a productive learning environment."
+  },
+  {
+    "concernsId": 6,
+    "concernsName": "disruptive",
+    "concernCategory": "behavior",
+    "concernSubject": "developmental issues",
+    "concernTopic": "disruption",
+    "concernDescription": "A child engaging in disruptive behavior in the classroom or home may frequently interrupt activities, distract peers, or hinder the learning process. Implementing strategies to manage and redirect the disruptive behavior can be beneficial in creating a more focused and productive learning environment for the child and others."
+  },
+  {
+    "concernsId": 7,
+    "concernsName": "liar",
+    "concernCategory": "behavior",
+    "concernSubject": "deceiving",
+    "concernTopic": "lying",
+    "concernDescription": "A child displaying lying behavior in the classroom or home may engage in deceptive or untruthful statements, impacting trust and relationships. Addressing the underlying factors contributing to the lying behavior and promoting honesty and integrity can be beneficial in fostering a positive and trustworthy learning environment."
+  },
+  {
+    "concernsId": 8,
+    "concernsName": "cheater",
+    "concernCategory": "behavior",
+    "concernSubject": "developmental issues",
+    "concernTopic": "cheating",
+    "concernDescription": "A child engaging in cheating behavior in the classroom or home may attempt to gain an unfair advantage by dishonest means, compromising the integrity of assessments or tasks. Implementing strategies to promote a sense of fairness, academic integrity, and ethical behavior can be beneficial in discouraging cheating and fostering a positive learning environment."
+  },
+  {
+    "concernsId": 9,
+    "concernsName": "thief",
+    "concernCategory": "behavior",
+    "concernSubject": "personal or family problems",
+    "concernTopic": "stealing",
+    "concernDescription": "A child displaying stealing behavior in the classroom or home may take belongings or resources that do not belong to them, violating boundaries and trust. Addressing the underlying factors contributing to the stealing behavior and promoting respect for others' property can be beneficial in fostering a safe and supportive learning environment."
+  },
+  {
+    "concernsId": 10,
+    "concernsName": "violent",
+    "concernCategory": "behavior",
+    "concernSubject": "attention",
+    "concernTopic": "aggression or fighting",
+    "concernDescription": "A hyperactive child displaying aggressive or fighting behavior in the classroom or home may engage in physical or verbal confrontations, posing risks to their own well-being and that of others. Implementing strategies to manage anger, promote conflict resolution, and foster positive social interactions can be beneficial in creating a safe and inclusive learning environment."
+  },
+  {
+    "concernsId": 11,
+    "concernsName": "misconduct",
+    "concernCategory": "behavior",
+    "concernSubject": "attention",
+    "concernTopic": "malicious mischief",
+    "concernDescription": "A child engaging in malicious mischief behavior in the classroom or home may exhibit intentionally harmful or destructive actions towards objects, property, or peers. Addressing the underlying factors contributing to the malicious mischief behavior and promoting responsibility, empathy, and appropriate ways to channel energy can be beneficial in fostering a positive and respectful learning environment."
+  },
+  {
+    "concernsId": 12,
+    "concernsName": "disobedience",
+    "concernCategory": "behavior",
+    "concernSubject": "personal or family problems",
+    "concernTopic": "defiance of authority",
+    "concernDescription": "A child displaying defiance of authority in the classroom or home may exhibit resistance, disobedience, or challenges towards rules or instructions. Implementing strategies to promote positive discipline, establish clear expectations, and foster respectful relationships can be beneficial in addressing the defiance and creating a structured and supportive learning environment."
+  },
+  {
+		"concernsId": 13,
+		"concernsName": "difficulty sounding out words",
+		"concernCategory": "academic",
+		"concernSubject": "reading",
+		"concernTopic": "phonics",
+		"concernDescription": "A child experiencing difficulty sounding out words during reading may struggle with phonics, which is the ability to connect sounds with letters or letter combinations. This difficulty can impact their overall reading fluency and comprehension. Addressing the underlying factors contributing to the difficulty in phonics can be beneficial in supporting the child's reading development. Providing targeted instruction, multisensory activities, and practice with phonics skills can help improve their ability to decode words and enhance their reading abilities."
+  },
+  {
+    "concernsId": 14,
+    "concernsName": "difficulty with phonemic awareness",
+    "concernCategory": "academic",
+    "concernSubject": "reading",
+    "concernTopic": "phonemic awareness",
+    "concernDescription": "A child experiencing difficulty with phonemic awareness may struggle to identify and manipulate individual sounds in spoken words. Phonemic awareness is crucial for developing reading and spelling skills. Addressing the underlying factors contributing to the difficulty in phonemic awareness can be beneficial in supporting the child's reading development. Providing explicit instruction, phonemic awareness activities, and practice with recognizing and manipulating sounds can help improve their phonemic awareness skills and enhance their overall reading abilities."
+  },
+  {
+    "concernsId": 15,
+    "concernsName": "difficulty with letter recognition",
+    "concernCategory": "academic",
+    "concernSubject": "reading",
+    "concernTopic": "letter recognition",
+    "concernDescription": "A child experiencing difficulty with letter recognition may struggle to identify and differentiate individual letters. Letter recognition is fundamental for building reading and writing skills. Addressing the underlying factors contributing to the difficulty in letter recognition can be beneficial in supporting the child's reading development. Providing engaging activities, letter-sound correspondence practice, and exposure to print can help improve their letter recognition skills and promote their overall reading abilities."
+  },
+  {
+    "concernsId": 16,
+    "concernsName": "difficulty with word recognition",
+    "concernCategory": "academic",
+    "concernSubject": "reading",
+    "concernTopic": "word recognition",
+    "concernDescription": "A child experiencing difficulty with word recognition may struggle to quickly and accurately identify familiar words. Word recognition is essential for fluent reading and comprehension. Addressing the underlying factors contributing to the difficulty in word recognition can be beneficial in supporting the child's reading development. Providing repeated exposure to high-frequency words, word recognition activities, and strategies for decoding unfamiliar words can help improve their word recognition skills and enhance their overall reading abilities."
+  },
+  {
+    "concernsId": 17,
+    "concernsName": "difficulty with reading comprehension",
+    "concernCategory": "academic",
+    "concernSubject": "reading",
+    "concernTopic": "comprehension",
+    "concernDescription": "A child experiencing difficulty with reading comprehension may struggle to understand and make meaning from texts. Reading comprehension involves various skills, including vocabulary knowledge, inferencing, and understanding text structures. Addressing the underlying factors contributing to the difficulty in reading comprehension can be beneficial in supporting the child's overall reading development. Providing explicit comprehension strategies, vocabulary instruction, and opportunities for practicing comprehension skills can help improve their reading comprehension abilities."
+  },
+  {
+    "concernsId": 18,
+    "concernsName": "difficulty with vocabulary",
+    "concernCategory": "academic",
+    "concernSubject": "reading",
+    "concernTopic": "vocabulary",
+    "concernDescription": "A child experiencing difficulty with vocabulary may struggle to understand and use a wide range of words. Vocabulary knowledge plays a crucial role in reading comprehension and academic success. Addressing the underlying factors contributing to the difficulty in vocabulary can be beneficial in supporting the child's reading development. Providing explicit vocabulary instruction, context-rich activities, and exposure to a variety of texts can help improve their vocabulary skills and enhance their overall reading abilities."
+  },
+  {
+    "concernsId": 19,
+    "concernsName": "difficulty with reading fluency",
+    "concernCategory": "academic",
+    "concernSubject": "reading",
+    "concernTopic": "fluency for reading",
+    "concernDescription": "A child experiencing difficulty with reading fluency may read slowly, word by word, and lack prosody or expression. Reading fluency is important for comprehension and engagement in reading. Addressing the underlying factors contributing to the difficulty in reading fluency can be beneficial in supporting the child's reading development. Providing opportunities for repeated reading, modeling fluent reading, and using appropriate reading strategies can help improve their reading fluency and enhance their overall reading abilities."
+  }
+]
