@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
+<script src= "https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<title>Empowering Families, Educators, and Others: Enhancing Understanding and Local Resource Connection | Success For All</title>
+</head>
+<body>
+<div th:replace="~{fragments/topnav :: navbar}">
+</div>
+
+Your user is:<br>
+<p th:text="${userDTO}"></p><br>
+<form action="#" th:action="@{/saveuser}" th:object="${userDTO}" method="POST">
+<div class="row g-2">
+  <div class="col-md">
+    <div class="form-floating">
+      	<input type="email" class="form-control" id="floatingInputGrid" placeholder="name@example.com" value="mdo@example.com" name="email" th:field="*{email}">
+      	<label for="floatingInputGrid">Email address</label>
+    </div>
+  </div>
+	<div class="col-md">
+		<div class="form-floating">
+      	<input type="email" class="form-control" id="floatingInputGrid" placeholder="ADHD.. reading difficulty" value="Academic/behavior" name="concerns" th:field="*{concerns}">
+      	<label for="floatingInputGrid">Concerns</label>
+    </div>
+  </div>
+</div>
+<div class="row g-2">
+  <div class="col-md">
+    <div class="form-floating">
+      	<input type="email" class="form-control" id="floatingInputGrid" placeholder="John / Jane" value="John / Jane" name="firstName" th:field="*{firstName}">
+      	<label for="floatingInputGrid">First Name</label>
+    </div>
+  </div>
+	<div class="col-md">
+		<div class="form-floating">
+      	<input type="email" class="form-control" id="floatingInputGrid" placeholder="Smith" value="Smith" name="lastName" th:field="*{lastName}" >
+      	<label for="floatingInputGrid">Last Name</label>
+    </div>
+  </div>
+</div>
+Age: <input type="text" name="age" th:field="*{age}" /><br>
+Password: <input type="password" name="password" th:field="*{password}" /><br>
+ConcernId: <input type="text" name="concernId" th:field="*{concernId}" /><br>
+
+<button type="submit">Submit</button>
+</form>
+</body>
+</html>
