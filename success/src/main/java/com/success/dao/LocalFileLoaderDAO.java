@@ -16,24 +16,24 @@ public class LocalFileLoaderDAO {
 	 * @return all data as one string
 	 * @throws Exception
 	 */
-	public String requestFromLocal(String filePath) throws Exception {
+	public String requestFromLocal(String filePath) throws IOException {
 	    StringBuilder sb = new StringBuilder();
 
 	    // Read data from the file
-	    
-	        ClassPathResource resource = new ClassPathResource(filePath);
-	        InputStreamReader inputStreamReader = new InputStreamReader(resource.getInputStream());
-	        BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
-	     
+	    try (InputStream inputStream = getClass().getResourceAsStream(filePath);
+	         InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
+	         BufferedReader bufferedReader = new BufferedReader(inputStreamReader)) {
+
 	        String inputLine = bufferedReader.readLine();
 	        while (inputLine != null) {
 	            sb.append(inputLine);
 	            inputLine = bufferedReader.readLine();
 	        }
-	    
+	    } catch (IOException e) {
+	        // Handle the exception or rethrow it
+	        throw new IOException("Failed to read file from the classpath: " + filePath, e);
+	    }
 
 	    return sb.toString();
 	}
-
-	
 }
