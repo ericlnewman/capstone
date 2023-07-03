@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  <title>Profile and Information | Success For All</title>
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JfYRVo9wRmOsZQsf9+N2T0sYHsmp00zty6L/z8WEocnK6cA6aUwt1aS9cl/2tD4D" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div th:replace="~{fragments/topnav :: navbar}">
+  </div>
+
+  <div class="container mt-5">
+    <form action="#" th:action="@{/saveuser}" th:object="${userDTO}" method="POST">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="mb-3">
+            <label for="inputFirstName" class="form-label">First Name</label>
+            <input type="text" class="form-control" id="inputFirstName" placeholder="Given name" name="firstName" th:field="*{userInformation.firstName}">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="mb-3">
+            <label for="inputLastName" class="form-label">Last Name</label>
+            <input type="text" class="form-control" id="inputLastName" placeholder="Surname" name="lastName" th:field="*{userInformation.lastName}">
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-6">
+          <div class="mb-3">
+            <label for="inputEmail" class="form-label">Email</label>
+            <input type="email" class="form-control" id="inputEmail" placeholder="Email" name="userName" th:field="*{userName}">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="mb-3">
+            <label for="inputPassword" class="form-label">Password</label>
+            <input type="password" class="form-control" id="inputPassword" placeholder="Password" name="password" th:field="*{password}">
+          </div>
+        </div>
+      </div>
+
+      <div class="mb-3">
+        <label for="inputAddress" class="form-label">Address</label>
+        <input type="text" class="form-control" id="inputAddress" placeholder="1234 Main St, Apt. D" name="street" th:field="*{userAddress.userStreet}">
+      </div>
+
+      <div class="row">
+        <div class="col-md-6">
+          <div class="mb-3">
+            <label for="inputCity" class="form-label">City</label>
+            <input type="text" class="form-control" id="inputCity" name="userTown" th:field="*{userAddress.userTown}">
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="mb-3">
+            <label for="inputState" class="form-label">State</label>
+            <input type="text" class="form-control" id="inputState" placeholder="Alabama" name="userState" th:field="*{userAddress.userState}">
+          </div>
+        </div>
+        <div class="col-md-2">
+          <div class="mb-3">
+            <label for="inputZip" class="form-label">Zip</label>
+            <input type="text" class="form-control" id="inputZip" name="userZip" th:field="*{userAddress.userZip}">
+          </div>
+        </div>
+      </div>
+
+      <div class="mb-3">
+        <label for="inputCountry" class="form-label">Country</label>
+        <input type="text" class="form-control" id="inputCountry" placeholder="United States Of America" name="userCountry" th:field="*{userAddress.userCountry}">
+      </div>
+
+      <div class="mb-3">
+        <label for="gender" class="form-label">Gender</label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="gender" id="inlineRadio1" value="male" th:field="*{userInformation.gender}">
+        <label class="form-check-label" for="inlineRadio1">Male</label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="gender" id="inlineRadio2" value="female" th:field="*{userInformation.gender}">
+        <label class="form-check-label" for="inlineRadio2">Female</label>
+      </div>
+
+      <div class="mb-3">
+        <label for="parentOrGuardian" class="form-label">Parent/Guardian</label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="parentOrGuardian" id="inlineRadio3" value="Parent" th:field="*{userInformation.parentOrGuardian}">
+        <label class="form-check-label" for="inlineRadio3">Parent</label>
+      </div>
+      <div class="form-check form-check-inline">
+        <input class="form-check-input" type="radio" name="parentOrGuardian" id="inlineRadio4" value="Guardian" th:field="*{userInformation.parentOrGuardian}">
+        <label class="form-check-label" for="inlineRadio4">Guardian</label>
+      </div>
+
+      <div class="row">
+        <div class="col-md-4">
+          <div class="mb-3">
+            <label for="personOfConcernName" class="form-label">Person of Concern Name</label>
+            <input type="text" class="form-control" id="personOfConcernName" name="personOfConcernName" th:field="*{personOfConcern.personOfConcernName}">
+          </div>
+        </div>
+        <div class="col-md-2">
+          <div class="mb-3">
+            <label for="ageOfPersonOfConcern" class="form-label">Person of Concern Age</label>
+            <input type="text" class="form-control" id="ageOfPersonOfConcern" name="ageOfPersonOfConcern" th:field="*{personOfConcern.ageOfPersonOfConcern}">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="mb-3">
+            <label for="concerns" class="form-label">Concerns</label>
+            <input type="text" class="form-control" id="concerns" placeholder="ADHD.. reading difficulty" name="concerns" th:field="*{concerns}">
+          </div>
+        </div>
+      </div>
+
+      <div class="form-check">
+        <input class="form-check-input" type="checkbox" id="gridCheck">
+        <label class="form-check-label" for="gridCheck">Check me out</label>
+      </div>
+
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+  </div>
+</body>
+</html>

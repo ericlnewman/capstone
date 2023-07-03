@@ -1,0 +1,1580 @@
+[
+  {
+    "resourceId": 1,
+    "name": "United Way",
+    "mission": "United Way focuses on improving education, financial stability, and health for families and individuals in need.",
+    "website": "https://www.unitedway.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 2,
+    "name": "Feeding America",
+    "mission": "Feeding America aims to end hunger and provide support to families facing food insecurity.",
+    "website": "https://www.feedingamerica.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 3,
+    "name": "Habitat for Humanity",
+    "mission": "Habitat for Humanity builds and repairs homes for families in need, promoting affordable housing solutions.",
+    "website": "https://www.habitat.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 4,
+    "name": "Boys & Girls Clubs of America",
+    "mission": "Boys & Girls Clubs of America provides safe spaces, mentorship, and programs for children and teens to thrive.",
+    "website": "https://www.bgca.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 5,
+    "name": "Save the Children",
+    "mission": "Save the Children focuses on improving the lives of children through education, health, and emergency response programs.",
+    "website": "https://www.savethechildren.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 6,
+    "name": "National Alliance to End Homelessness",
+    "mission": "The National Alliance to End Homelessness works to prevent and end homelessness through policy, advocacy, and support for local organizations.",
+    "website": "https://endhomelessness.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 7,
+    "name": "Big Brothers Big Sisters of America",
+    "mission": "Big Brothers Big Sisters of America provides one-to-one mentoring for children and youth facing adversity.",
+    "website": "https://www.bbbs.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 8,
+    "name": "Ronald McDonald House Charities",
+    "mission": "Ronald McDonald House Charities offers support and accommodation for families with sick children receiving medical treatment.",
+    "website": "https://www.rmhc.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 9,
+    "name": "Women, Infants, and Children (WIC) Program",
+    "mission": "The WIC Program provides nutrition education, healthy food, and support for low-income pregnant women, new mothers, and young children.",
+    "website": "https://www.fns.usda.gov/wic",
+    "location": "National"
+  },
+  {
+    "resourceId": 10,
+    "name": "American Red Cross",
+    "mission": "The American Red Cross offers disaster relief, support to military families, health and safety training, and blood donation services.",
+    "website": "https://www.redcross.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 11,
+    "name": "Catholic Charities USA",
+    "mission": "Catholic Charities USA provides a range of social services and support to individuals and families in need, regardless of their religious affiliation.",
+    "website": "https://www.catholiccharitiesusa.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 12,
+    "name": "Salvation Army",
+    "mission": "The Salvation Army offers various programs and services to assist families in need, including emergency assistance, food assistance, shelter, and rehabilitation services.",
+    "website": "https://www.salvationarmyusa.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 13,
+    "name": "YMCA",
+    "mission": "The YMCA provides a wide range of programs and services focused on youth development, healthy living, and social responsibility, benefiting families and individuals of all ages.",
+    "website": "https://www.ymca.net/",
+    "location": "National"
+  },
+  {
+    "resourceId": 14,
+    "name": "Feeding America",
+    "mission": "Feeding America is a nationwide network of food banks that helps provide food and support to individuals and families facing hunger.",
+    "website": "https://www.feedingamerica.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 15,
+    "name": "Meals on Wheels America",
+    "mission": "Meals on Wheels America delivers nutritious meals and provides social support to seniors, helping them maintain their independence and well-being.",
+    "website": "https://www.mealsonwheelsamerica.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 16,
+    "name": "National Domestic Violence Hotline",
+    "mission": "The National Domestic Violence Hotline offers support, resources, and safety planning for individuals affected by domestic violence, including assistance for families in crisis.",
+    "website": "https://www.thehotline.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 17,
+    "name": "Arizona Education Foundation",
+    "mission": "The Arizona Education Foundation promotes excellence in education, recognizing and celebrating outstanding educators and schools in Arizona.",
+    "website": "https://www.azedfoundation.org/",
+    "location": "Arizona"
+  },
+  {
+    "resourceId": 18,
+    "name": "Children's Action Alliance",
+    "mission": "Children's Action Alliance works to improve the well-being of Arizona's children and families through research, advocacy, and policy solutions.",
+    "website": "https://www.azchildren.org/",
+    "location": "Arizona"
+  },
+  {
+    "resourceId": 19,
+    "name": "Arkansas Advocates for Children and Families",
+    "mission": "Arkansas Advocates for Children and Families advocates for policies and programs that improve the lives of Arkansas children and families, focusing on health, education, and economic security.",
+    "website": "https://www.aradvocates.org/",
+    "location": "Arkansas"
+  },
+  {
+    "resourceId": 20,
+    "name": "Arkansas Single Parent Scholarship Fund",
+    "mission": "The Arkansas Single Parent Scholarship Fund provides financial assistance, support, and resources to low-income single parents pursuing higher education.",
+    "website": "https://www.aspsf.org/",
+    "location": "Arkansas"
+  },
+  {
+    "resourceId": 21,
+    "name": "California State PTA",
+    "mission": "California State PTA is a volunteer organization dedicated to positively impacting the lives of all children and families through advocacy, education, and partnership.",
+    "website": "https://capta.org/",
+    "location": "California"
+  },
+  {
+    "resourceId": 22,
+    "name": "Children Now",
+    "mission": "Children Now is a nonpartisan organization focused on improving children's health, education, and well-being in California through research, policy advocacy, and collaboration.",
+    "website": "https://www.childrennow.org/",
+    "location": "California"
+  },
+  {
+    "resourceId": 23,
+    "name": "Colorado Children's Campaign",
+    "mission": "The Colorado Children's Campaign works to improve child well-being through research, policy advocacy, and public education, aiming to ensure every Colorado child has the opportunity to succeed.",
+    "website": "https://www.coloradokids.org/",
+    "location": "Colorado"
+  },
+  {
+    "resourceId": 24,
+    "name": "Children's Hospital Colorado",
+    "mission": "Children's Hospital Colorado provides comprehensive pediatric healthcare services, including medical treatment, research, education, and advocacy.",
+    "website": "https://www.childrenscolorado.org/",
+    "location": "Colorado"
+  },
+  {
+    "resourceId": 25,
+    "name": "Connecticut Association for Human Services",
+    "mission": "The Connecticut Association for Human Services advocates for policies and programs that improve the well-being of Connecticut residents, with a focus on children and families.",
+    "website": "https://www.cahs.org/",
+    "location": "Connecticut"
+  },
+  {
+    "resourceId": 26,
+    "name": "Connecticut Children's Medical Center Foundation",
+    "mission": "The Connecticut Children's Medical Center Foundation supports Connecticut Children's Medical Center in providing world-class pediatric healthcare, research, and education.",
+    "website": "https://www.connecticutchildrensfoundation.org/",
+    "location": "Connecticut"
+  },
+  {
+    "resourceId": 27,
+    "name": "Delaware Department of Education",
+    "mission": "The Delaware Department of Education promotes excellence, equity, and innovation in education to prepare Delaware students for success in a global society.",
+    "website": "https://www.doe.k12.de.us/",
+    "location": "Delaware"
+  },
+  {
+    "resourceId": 28,
+    "name": "Boys & Girls Clubs of Delaware",
+    "mission": "The Boys & Girls Clubs of Delaware provide after-school and summer programs that promote academic success, character development, and healthy lifestyles for Delaware youth.",
+    "website": "https://www.bgclubs.org/",
+    "location": "Delaware"
+  },
+  {
+    "resourceId": 29,
+    "name": "Children's Home Society of Florida",
+    "mission": "The Children's Home Society of Florida provides services and support to help create strong families, prevent child abuse, and ensure the well-being of children in Florida.",
+    "website": "https://www.chsfl.org/",
+    "location": "Florida"
+  },
+  {
+    "resourceId": 30,
+    "name": "Florida PTA",
+    "mission": "Florida PTA is a volunteer organization that advocates for children and families, promotes parent involvement, and supports education and well-being in Florida.",
+    "website": "https://www.floridapta.org/",
+    "location": "Florida"
+  },
+  {
+    "resourceId": 31,
+    "name": "Georgia Family Connection Partnership",
+    "mission": "Georgia Family Connection Partnership works to improve outcomes for children and families through community collaboration, data-driven decision-making, and strategic investment.",
+    "website": "https://www.gafcp.org/",
+    "location": "Georgia"
+  },
+  {
+    "resourceId": 32,
+    "name": "Boys & Girls Clubs of Metro Atlanta",
+    "mission": "The Boys & Girls Clubs of Metro Atlanta provide a safe and positive environment for youth, offering programs focused on academic success, healthy lifestyles, and character development.",
+    "website": "https://www.bgcma.org/",
+    "location": "Georgia"
+  },
+  {
+    "resourceId": 33,
+    "name": "Hawaii Children's Action Network",
+    "mission": "Hawaii Children's Action Network advocates for policies and programs that improve the well-being of Hawaii's children and families, with a focus on health, education, and economic security.",
+    "website": "https://www.hawaii-can.org/",
+    "location": "Hawaii"
+  },
+  {
+    "resourceId": 34,
+    "name": "Keiki O Ka 'Aina Family Learning Centers",
+    "mission": "Keiki O Ka 'Aina Family Learning Centers provide culturally-relevant programs and resources to support the well-being and educational success of Native Hawaiian children and families.",
+    "website": "https://www.keikiokaina.org/",
+    "location": "Hawaii"
+  },
+  {
+    "resourceId": 35,
+    "name": "Idaho Children's Trust Fund",
+    "mission": "The Idaho Children's Trust Fund promotes child well-being and prevents child abuse and neglect through grants, public awareness campaigns, and community partnerships.",
+    "website": "https://www.idahochildrenstrustfund.org/",
+    "location": "Idaho"
+  },
+  {
+    "resourceId": 36,
+    "name": "Idaho Voices for Children",
+    "mission": "Idaho Voices for Children advocates for policies and investments that improve the lives of Idaho children, focusing on health, education, and economic security.",
+    "website": "https://idahovoices.org/",
+    "location": "Idaho"
+  },
+  {
+    "resourceId": 37,
+    "name": "Children's Home Society of Illinois",
+    "mission": "The Children's Home Society of Illinois provides comprehensive services and support to children and families, including adoption, foster care, counseling, and educational programs.",
+    "website": "https://www.childrenshomeandaid.org/",
+    "location": "Illinois"
+  },
+  {
+    "resourceId": 38,
+    "name": "Illinois Action for Children",
+    "mission": "Illinois Action for Children advocates for policies and investments that support the healthy development and early learning of young children in Illinois.",
+    "website": "https://actforchildren.org/",
+    "location": "Illinois"
+  },
+  {
+    "resourceId": 39,
+    "name": "Indiana Youth Institute",
+    "mission": "The Indiana Youth Institute promotes the healthy development of Indiana's youth by providing resources, training, and advocacy to youth-serving professionals and organizations.",
+    "website": "https://www.iyi.org/",
+    "location": "Indiana"
+  },
+  {
+    "resourceId": 40,
+    "name": "Indiana Parenting Institute",
+    "mission": "The Indiana Parenting Institute supports parents and caregivers in Indiana through educational programs, resources, and advocacy to strengthen families and improve child well-being.",
+    "website": "https://www.indianaparentinginstitute.org/",
+    "location": "Indiana"
+  },
+
+  {
+    "resourceId": 41,
+    "name": "Iowa Children's Museum",
+    "mission": "The Iowa Children's Museum offers interactive exhibits and educational programs that inspire creativity, learning, and play for children and families in Iowa.",
+    "website": "https://theicm.org/",
+    "location": "Iowa"
+  },
+  {
+    "resourceId": 42,
+    "name": "Iowa Youth Chorus",
+    "mission": "The Iowa Youth Chorus provides choral music education and performance opportunities for youth, fostering artistic development and personal growth.",
+    "website": "https://www.iowayouthchorus.org/",
+    "location": "Iowa"
+  },
+  {
+    "resourceId": 43,
+    "name": "Kansas Children's Service League",
+    "mission": "The Kansas Children's Service League promotes the well-being of children and families through prevention, early intervention, and support services.",
+    "website": "https://www.kcsl.org/",
+    "location": "Kansas"
+  },
+  {
+    "resourceId": 44,
+    "name": "Kansas Action for Children",
+    "mission": "Kansas Action for Children advocates for policies that improve the lives of Kansas children and families, with a focus on health, education, and economic security.",
+    "website": "https://www.kac.org/",
+    "location": "Kansas"
+  },
+  {
+    "resourceId": 45,
+    "name": "Kentucky Youth Advocates",
+    "mission": "Kentucky Youth Advocates works to improve child well-being in Kentucky through research, policy advocacy, and community mobilization.",
+    "website": "https://kyyouth.org/",
+    "location": "Kentucky"
+  },
+  {
+    "resourceId": 46,
+    "name": "Boys & Girls Clubs of Kentuckiana",
+    "mission": "The Boys & Girls Clubs of Kentuckiana provide a safe and positive environment for youth, offering programs focused on academic success, healthy lifestyles, and character development.",
+    "website": "https://www.bgckyana.org/",
+    "location": "Kentucky"
+  },
+  {
+    "resourceId": 47,
+    "name": "Louisiana Partnership for Children and Families",
+    "mission": "The Louisiana Partnership for Children and Families advocates for policies and investments that support the well-being of Louisiana's children and families.",
+    "website": "https://www.louisianapartnership.org/",
+    "location": "Louisiana"
+  },
+  {
+    "resourceId": 48,
+    "name": "Louisiana Children's Museum",
+    "mission": "The Louisiana Children's Museum provides hands-on exhibits and educational programs that promote learning, imagination, and exploration for children and families in Louisiana.",
+    "website": "https://www.lcm.org/",
+    "location": "Louisiana"
+  },
+  {
+    "resourceId": 49,
+    "name": "Maine Children's Alliance",
+    "mission": "The Maine Children's Alliance advocates for policies and investments that improve the lives of Maine's children and families, focusing on health, education, and economic security.",
+    "website": "https://www.mekids.org/",
+    "location": "Maine"
+  },
+  {
+    "resourceId": 50,
+    "name": "Maine Youth Action Network",
+    "mission": "Maine Youth Action Network empowers youth to create positive change in their communities through leadership development, advocacy training, and youth-led initiatives.",
+    "website": "https://www.myan.org/",
+    "location": "Maine"
+  },
+  {
+    "resourceId": 51,
+    "name": "Maryland Out of School Time Network",
+    "mission": "The Maryland Out of School Time Network supports and advocates for high-quality out-of-school programs that enhance the learning and development of Maryland's youth.",
+    "website": "https://www.mdoutofschooltime.org/",
+    "location": "Maryland"
+  },
+  {
+    "resourceId": 52,
+    "name": "Maryland Family Network",
+    "mission": "Maryland Family Network promotes early care and education, providing resources, training, and advocacy to ensure that all Maryland children have a strong start in life.",
+    "website": "https://www.marylandfamilynetwork.org/",
+    "location": "Maryland"
+  },
+  {
+    "resourceId": 53,
+    "name": "Massachusetts Society for the Prevention of Cruelty to Children",
+    "mission": "The Massachusetts Society for the Prevention of Cruelty to Children works to ensure the well-being of children and families through advocacy, intervention, and support services.",
+    "website": "https://www.mspcc.org/",
+    "location": "Massachusetts"
+  },
+  {
+    "resourceId": 54,
+    "name": "Massachusetts Family Network",
+    "mission": "Massachusetts Family Network strengthens families through parent education, support, and community engagement, promoting the healthy development of children.",
+    "website": "https://www.massfamilyties.org/",
+    "location": "Massachusetts"
+  },
+  {
+    "resourceId": 55,
+    "name": "Michigan's Children",
+    "mission": "Michigan's Children advocates for policies and investments that prioritize the well-being of Michigan's children, ensuring they have opportunities to succeed and thrive.",
+    "website": "https://www.michiganschildren.org/",
+    "location": "Michigan"
+  },
+  {
+    "resourceId": 56,
+    "name": "Michigan Association for the Education of Young Children",
+    "mission": "The Michigan Association for the Education of Young Children promotes high-quality early learning experiences for all young children in Michigan through advocacy and professional development.",
+    "website": "https://www.miaeyc.org/",
+    "location": "Michigan"
+  },
+  {
+    "resourceId": 57,
+    "name": "Minnesota Children's Museum",
+    "mission": "The Minnesota Children's Museum offers hands-on exhibits and programs that spark children's curiosity, creativity, and love for learning.",
+    "website": "https://mcm.org/",
+    "location": "Minnesota"
+  },
+  {
+    "resourceId": 58,
+    "name": "Minnesota Children's Defense Fund",
+    "mission": "The Minnesota Children's Defense Fund advocates for policies and programs that provide all children with a healthy start, a quality education, and a safe and nurturing environment.",
+    "website": "https://www.cdf-mn.org/",
+    "location": "Minnesota"
+  },
+  {
+    "resourceId": 59,
+    "name": "Mississippi Low-Income Child Care Initiative",
+    "mission": "The Mississippi Low-Income Child Care Initiative works to increase access to affordable, quality child care for low-income families in Mississippi.",
+    "website": "https://www.mslinc.org/",
+    "location": "Mississippi"
+  },
+  {
+    "resourceId": 60,
+    "name": "Mississippi First",
+    "mission": "Mississippi First advocates for policies and programs that ensure all Mississippi children have access to high-quality education and opportunities for success.",
+    "website": "https://www.mississippifirst.org/",
+    "location": "Mississippi"
+  },
+  {
+    "resourceId": 61,
+    "name": "Missouri KidsFirst",
+    "mission": "Missouri KidsFirst advocates for policies and practices that promote the safety and well-being of Missouri's children, with a focus on preventing child abuse and neglect.",
+    "website": "https://www.missourikidsfirst.org/",
+    "location": "Missouri"
+  },
+  {
+    "resourceId": 62,
+    "name": "Missouri AfterSchool Network",
+    "mission": "The Missouri AfterSchool Network supports and promotes high-quality after-school programs that provide educational and enrichment opportunities for Missouri's youth.",
+    "website": "https://www.moasn.org/",
+    "location": "Missouri"
+  },
+  {
+    "resourceId": 63,
+    "name": "Montana Children's Trust Fund",
+    "mission": "The Montana Children's Trust Fund works to prevent child abuse and neglect in Montana by promoting strong families, healthy relationships, and safe communities.",
+    "website": "https://dphhs.mt.gov/cfsd/ctf",
+    "location": "Montana"
+  },
+  {
+    "resourceId": 64,
+    "name": "Montana Early Childhood Project",
+    "mission": "The Montana Early Childhood Project provides resources, training, and support to early childhood professionals and families to ensure the healthy development of Montana's young children.",
+    "website": "https://www.mtecp.org/",
+    "location": "Montana"
+  },
+  {
+    "resourceId": 65,
+    "name": "Nebraska Children and Families Foundation",
+    "mission": "The Nebraska Children and Families Foundation supports initiatives and programs that improve the lives of Nebraska's children and families, with a focus on education and well-being.",
+    "website": "https://www.nebraskachildren.org/",
+    "location": "Nebraska"
+  },
+  {
+    "resourceId": 66,
+    "name": "Nebraska Early Childhood Collaborative",
+    "mission": "The Nebraska Early Childhood Collaborative works to improve early childhood education and care in Nebraska by promoting collaboration, quality standards, and professional development.",
+    "website": "https://www.nebraskaearly.org/",
+    "location": "Nebraska"
+  },
+  {
+    "resourceId": 67,
+    "name": "Nevada Institute for Children's Research and Policy",
+    "mission": "The Nevada Institute for Children's Research and Policy conducts research and provides data-driven recommendations to improve policies and programs that impact the well-being of Nevada's children.",
+    "website": "https://www.unlv.edu/nicrp",
+    "location": "Nevada"
+  },
+  {
+    "resourceId": 68,
+    "name": "Nevada Partnership for Homeless Youth",
+    "mission": "The Nevada Partnership for Homeless Youth provides assistance, support, and resources to homeless and at-risk youth in Nevada, helping them achieve self-sufficiency and stability.",
+    "website": "https://nphy.org/",
+    "location": "Nevada"
+  },
+  {
+    "resourceId": 69,
+    "name": "New Hampshire Children's Trust",
+    "mission": "The New Hampshire Children's Trust works to prevent child abuse and neglect in New Hampshire by promoting strong families, supportive communities, and evidence-based programs.",
+    "website": "https://www.nhchildrenstrust.org/",
+    "location": "New Hampshire"
+  },
+  {
+    "resourceId": 70,
+    "name": "New Hampshire Children's Scholarship Fund",
+    "mission": "The New Hampshire Children's Scholarship Fund provides scholarships and educational opportunities to low-income families in New Hampshire, helping them access quality education for their children.",
+    "website": "https://www.nhcsfund.org/",
+    "location": "New Hampshire"
+  },
+  {
+    "resourceId": 71,
+    "name": "New Jersey Coalition for Inclusive Education",
+    "mission": "The New Jersey Coalition for Inclusive Education advocates for inclusive education policies and practices that ensure all students, including those with disabilities, have equal access to quality education.",
+    "website": "https://www.njcie.org/",
+    "location": "New Jersey"
+  },
+  {
+    "resourceId": 72,
+    "name": "New Jersey After 3",
+    "mission": "New Jersey After 3 provides after-school programs that offer academic support, enrichment activities, and social-emotional development opportunities for New Jersey's youth.",
+    "website": "https://www.njafter3.org/",
+    "location": "New Jersey"
+  },
+  {
+    "resourceId": 73,
+    "name": "New Mexico Voices for Children",
+    "mission": "New Mexico Voices for Children advocates for policies and programs that improve the well-being of New Mexico's children, with a focus on education, health, and economic security.",
+    "website": "https://www.nmvoices.org/",
+    "location": "New Mexico"
+  },
+  {
+    "resourceId": 74,
+    "name": "New Mexico Out-of-School Time Network",
+    "mission": "The New Mexico Out-of-School Time Network supports and promotes high-quality out-of-school time programs that provide educational and enrichment opportunities for New Mexico's youth.",
+    "website": "https://www.nmost.org/",
+    "location": "New Mexico"
+  },
+  {
+    "resourceId": 75,
+    "name": "New York State Parenting Education Partnership",
+    "mission": "The New York State Parenting Education Partnership promotes evidence-based parenting education programs and resources to support parents and caregivers in raising healthy and successful children.",
+    "website": "https://nyspep.org/",
+    "location": "New York"
+  },
+  {
+    "resourceId": 76,
+    "name": "After-School All-Stars New York",
+    "mission": "After-School All-Stars New York provides comprehensive after-school programs that promote academic, physical, and social-emotional development for New York's youth.",
+    "website": "https://www.afterschoolallstars.org/programs/new-york/",
+    "location": "New York"
+  },
+  {
+    "resourceId": 77,
+    "name": "North Carolina Early Childhood Foundation",
+    "mission": "The North Carolina Early Childhood Foundation works to ensure that every child in North Carolina has a strong foundation for lifelong success, with a focus on early education and development.",
+    "website": "https://buildthefoundation.org/",
+    "location": "North Carolina"
+  },
+  {
+    "resourceId": 78,
+    "name": "Communities in Schools of North Carolina",
+    "mission": "Communities in Schools of North Carolina provides integrated student support services that help students stay in school, graduate, and achieve their full potential.",
+    "website": "https://www.cisnc.org/",
+    "location": "North Carolina"
+  },
+  {
+    "resourceId": 79,
+    "name": "North Dakota Parent Education Network",
+    "mission": "The North Dakota Parent Education Network promotes effective parenting practices and provides resources and support to parents and caregivers in North Dakota.",
+    "website": "https://www.ndpen.org/",
+    "location": "North Dakota"
+  },
+  {
+    "resourceId": 80,
+    "name": "North Dakota Out-of-School Time Network",
+    "mission": "The North Dakota Out-of-School Time Network supports and advocates for high-quality out-of-school time programs that enhance the learning and development of North Dakota's youth.",
+    "website": "https://www.ndost.org/",
+    "location": "North Dakota"
+  },
+   {
+    "resourceId": 81,
+    "name": "Ohio Afterschool Network",
+    "mission": "The Ohio Afterschool Network advocates for and supports high-quality afterschool programs that provide educational enrichment and support to Ohio's youth.",
+    "website": "https://www.ohioafterschoolnetwork.org/",
+    "location": "Ohio"
+  },
+  {
+    "resourceId": 82,
+    "name": "Stand for Children Oklahoma",
+    "mission": "Stand for Children Oklahoma advocates for policies and investments that improve education outcomes for all children in Oklahoma, with a focus on equity and access.",
+    "website": "https://stand.org/oklahoma",
+    "location": "Oklahoma"
+  },
+  {
+    "resourceId": 83,
+    "name": "Oregon Mentors",
+    "mission": "Oregon Mentors supports and advocates for quality youth mentoring programs that provide positive relationships and opportunities for Oregon's young people.",
+    "website": "https://www.oregonmentors.org/",
+    "location": "Oregon"
+  },
+  {
+    "resourceId": 84,
+    "name": "Stand for Children Oregon",
+    "mission": "Stand for Children Oregon works to ensure that all children in Oregon have access to an excellent education by advocating for effective policies and practices.",
+    "website": "https://stand.org/oregon",
+    "location": "Oregon"
+  },
+  {
+    "resourceId": 85,
+    "name": "Pennsylvania Partnerships for Children",
+    "mission": "Pennsylvania Partnerships for Children advocates for policies and programs that improve the health, education, and well-being of Pennsylvania's children.",
+    "website": "https://www.papartnerships.org/",
+    "location": "Pennsylvania"
+  },
+  {
+    "resourceId": 86,
+    "name": "Pennsylvania Statewide Afterschool/Youth Development Network",
+    "mission": "The Pennsylvania Statewide Afterschool/Youth Development Network supports and promotes quality afterschool and youth development programs that enhance the lives of Pennsylvania's youth.",
+    "website": "https://www.psaydn.org/",
+    "location": "Pennsylvania"
+  },
+  {
+    "resourceId": 87,
+    "name": "Rhode Island KIDS COUNT",
+    "mission": "Rhode Island KIDS COUNT works to improve the health, education, economic well-being, and safety of Rhode Island's children through data-driven advocacy.",
+    "website": "https://www.rikidscount.org/",
+    "location": "Rhode Island"
+  },
+  {
+    "resourceId": 88,
+    "name": "Rhode Island Afterschool Plus Alliance",
+    "mission": "The Rhode Island Afterschool Plus Alliance supports and expands high-quality afterschool and summer learning programs that provide opportunities for Rhode Island's youth.",
+    "website": "https://www.riaspire.org/",
+    "location": "Rhode Island"
+  },
+  {
+    "resourceId": 89,
+    "name": "South Carolina First Steps",
+    "mission": "South Carolina First Steps works to ensure that all South Carolina children start school ready to succeed by supporting early childhood development programs and initiatives.",
+    "website": "https://scfirststeps.org/",
+    "location": "South Carolina"
+  },
+  {
+    "resourceId": 90,
+    "name": "South Carolina Afterschool Alliance",
+    "mission": "The South Carolina Afterschool Alliance promotes and supports quality afterschool programs that provide educational enrichment and support to South Carolina's youth.",
+    "website": "https://scafterschool.com/",
+    "location": "South Carolina"
+  },
+  {
+    "resourceId": 91,
+    "name": "Tennessee Afterschool Network",
+    "mission": "The Tennessee Afterschool Network promotes and supports quality afterschool programs that provide educational and enrichment opportunities for Tennessee's children and youth.",
+    "website": "https://www.tnafterschool.org/",
+    "location": "Tennessee"
+  },
+  {
+    "resourceId": 92,
+    "name": "Texas Education Agency",
+    "mission": "The Texas Education Agency works to improve educational outcomes for all Texas students by implementing statewide policies, supporting schools, and providing resources for educators.",
+    "website": "https://tea.texas.gov/",
+    "location": "Texas"
+  },
+  {
+    "resourceId": 93,
+    "name": "Texas Partnership for Out of School Time",
+    "mission": "The Texas Partnership for Out of School Time supports and advocates for high-quality out-of-school time programs that enhance the academic and social development of Texas youth.",
+    "website": "https://www.txpost.org/",
+    "location": "Texas"
+  },
+  {
+    "resourceId": 94,
+    "name": "Utah Afterschool Network",
+    "mission": "The Utah Afterschool Network works to ensure that all Utah youth have access to quality afterschool programs that provide engaging learning experiences.",
+    "website": "https://utahafterschool.org/",
+    "location": "Utah"
+  },
+  {
+    "resourceId": 95,
+    "name": "Vermont Afterschool",
+    "mission": "Vermont Afterschool promotes and supports high-quality afterschool and summer learning programs that benefit Vermont's children and youth.",
+    "website": "https://www.vermontafterschool.org/",
+    "location": "Vermont"
+  },
+  {
+    "resourceId": 96,
+    "name": "Virginia Center for Inclusive Communities",
+    "mission": "The Virginia Center for Inclusive Communities works to promote understanding and respect among all Virginians, with a focus on eliminating prejudice, bias, and injustice.",
+    "website": "https://inclusiveva.org/",
+    "location": "Virginia"
+  },
+  {
+    "resourceId": 97,
+    "name": "Washington State Afterschool Network",
+    "mission": "The Washington State Afterschool Network supports and advocates for high-quality afterschool and youth development programs that serve Washington's children and youth.",
+    "website": "https://www.washingtonafterschoolnetwork.org/",
+    "location": "Washington"
+  },
+  {
+    "resourceId": 98,
+    "name": "West Virginia Afterschool Network",
+    "mission": "The West Virginia Afterschool Network promotes and supports quality afterschool programs that provide opportunities for West Virginia's children and youth to learn, grow, and succeed.",
+    "website": "https://wvhub.org/afterschool/",
+    "location": "West Virginia"
+  },
+  {
+    "resourceId": 99,
+    "name": "Wisconsin AfterSchool Network",
+    "mission": "The Wisconsin AfterSchool Network promotes and supports quality afterschool programs that provide academic support, enrichment, and positive youth development opportunities for Wisconsin's youth.",
+    "website": "https://www.wiafterschoolnetwork.org/",
+    "location": "Wisconsin"
+  },
+  {
+    "resourceId": 100,
+    "name": "Wyoming Afterschool Alliance",
+    "mission": "The Wyoming Afterschool Alliance advocates for and supports afterschool programs that provide safe, enriching, and engaging experiences for Wyoming's children and youth.",
+    "website": "https://www.wyomingsmt.org/",
+    "location": "Wyoming"
+  },
+
+  {
+    "resourceId": 101,
+    "name": "Autism Speaks",
+    "mission": "Autism Speaks is dedicated to promoting solutions, support, and advocacy for individuals with autism and their families.",
+    "website": "https://www.autismspeaks.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 102,
+    "name": "Autism Society",
+    "mission": "The Autism Society works to improve the lives of individuals and families affected by autism through advocacy, education, support, and research.",
+    "website": "https://www.autism-society.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 103,
+    "name": "Autism Science Foundation",
+    "mission": "The Autism Science Foundation supports autism research and disseminates accurate and evidence-based information about autism to the community.",
+    "website": "https://autismsciencefoundation.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 104,
+    "name": "Autistic Self Advocacy Network",
+    "mission": "The Autistic Self Advocacy Network promotes the rights and self-advocacy of individuals on the autism spectrum.",
+    "website": "https://autisticadvocacy.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 105,
+    "name": "Organization for Autism Research",
+    "mission": "The Organization for Autism Research funds research studies, provides resources, and offers support for individuals with autism and their families.",
+    "website": "https://researchautism.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 106,
+    "name": "Alabama Autism Society",
+    "mission": "The Alabama Autism Society provides support, resources, and advocacy for individuals with autism and their families in Alabama.",
+    "website": "https://www.autism-alabama.org/",
+    "location": "Alabama"
+  },
+  {
+    "resourceId": 107,
+    "name": "Alaska Autism Resource Center",
+    "mission": "The Alaska Autism Resource Center offers support, education, and resources for individuals with autism and their families in Alaska.",
+    "website": "https://www.alaskaarc.org/",
+    "location": "Alaska"
+  },
+  {
+    "resourceId": 108,
+    "name": "Arizona Autism United",
+    "mission": "Arizona Autism United provides comprehensive services, resources, and support for individuals with autism and their families in Arizona.",
+    "website": "https://www.azautism.org/",
+    "location": "Arizona"
+  },
+  {
+    "resourceId": 109,
+    "name": "Arkansas Autism Resource & Advocacy",
+    "mission": "Arkansas Autism Resource & Advocacy offers support, advocacy, and resources for individuals with autism and their families in Arkansas.",
+    "website": "https://www.araautism.org/",
+    "location": "Arkansas"
+  },
+  {
+    "resourceId": 110,
+    "name": "California Autism Society",
+    "mission": "The California Autism Society provides resources, support, and advocacy for individuals with autism and their families in California.",
+    "website": "https://www.autismsocietyca.org/",
+    "location": "California"
+  },
+  {
+    "resourceId": 111,
+    "name": "Colorado Autism Society",
+    "mission": "The Colorado Autism Society offers support, education, and advocacy for individuals with autism and their families in Colorado.",
+    "website": "https://www.autismcolorado.org/",
+    "location": "Colorado"
+  },
+  {
+    "resourceId": 112,
+    "name": "Connecticut Autism Spectrum Resource Center",
+    "mission": "The Connecticut Autism Spectrum Resource Center provides resources, support, and educational programs for individuals with autism and their families in Connecticut.",
+    "website": "https://ct-asrc.org/",
+    "location": "Connecticut"
+  },
+  {
+    "resourceId": 113,
+    "name": "Delaware Autism",
+    "mission": "Delaware Autism offers support, education, and advocacy for individuals with autism and their families in Delaware.",
+    "website": "https://www.delautism.org/",
+    "location": "Delaware"
+  },
+  {
+    "resourceId": 114,
+    "name": "Autism Society of Florida",
+    "mission": "The Autism Society of Florida provides support, resources, and advocacy for individuals with autism and their families in Florida.",
+    "website": "https://www.autismfl.com/",
+    "location": "Florida"
+  },
+  {
+    "resourceId": 115,
+    "name": "Georgia Autism Society",
+    "mission": "The Georgia Autism Society promotes awareness, advocacy, and support for individuals with autism and their families in Georgia.",
+    "website": "https://ga-autism.org/",
+    "location": "Georgia"
+  },
+  {
+    "resourceId": 116,
+    "name": "Autism Society of Hawaii",
+    "mission": "The Autism Society of Hawaii offers support, education, and advocacy for individuals with autism and their families in Hawaii.",
+    "website": "https://www.autismhi.org/",
+    "location": "Hawaii"
+  },
+  {
+    "resourceId": 117,
+    "name": "Idaho Parents Unlimited",
+    "mission": "Idaho Parents Unlimited provides support, education, and resources for families of individuals with disabilities, including autism, in Idaho.",
+    "website": "https://ipulidaho.org/",
+    "location": "Idaho"
+  },
+  {
+    "resourceId": 118,
+    "name": "Illinois Autism Society",
+    "mission": "The Illinois Autism Society promotes advocacy, awareness, and support for individuals with autism and their families in Illinois.",
+    "website": "https://www.autismillinois.org/",
+    "location": "Illinois"
+  },
+  {
+    "resourceId": 119,
+    "name": "Indiana Autism Society",
+    "mission": "The Indiana Autism Society offers resources, support, and advocacy for individuals with autism and their families in Indiana.",
+    "website": "https://www.autismsocietyofindiana.org/",
+    "location": "Indiana"
+  },
+  {
+    "resourceId": 120,
+    "name": "Autism Society of Iowa",
+    "mission": "The Autism Society of Iowa provides support, resources, and advocacy for individuals with autism and their families in Iowa.",
+    "website": "https://www.autismia.com/",
+    "location": "Iowa"
+  },
+  {
+    "resourceId": 121,
+    "name": "Kansas Autism Society",
+    "mission": "The Kansas Autism Society promotes awareness, advocacy, and support for individuals with autism and their families in Kansas.",
+    "website": "https://www.kansasautism.org/",
+    "location": "Kansas"
+  },
+  {
+    "resourceId": 122,
+    "name": "Kentucky Autism Training Center",
+    "mission": "The Kentucky Autism Training Center provides training, resources, and support for individuals with autism and their families in Kentucky.",
+    "website": "https://www.kyautism.org/",
+    "location": "Kentucky"
+  },
+  {
+    "resourceId": 123,
+    "name": "Autism Society of Louisiana",
+    "mission": "The Autism Society of Louisiana offers support, education, and advocacy for individuals with autism and their families in Louisiana.",
+    "website": "https://www.asofla.org/",
+    "location": "Louisiana"
+  },
+  {
+    "resourceId": 124,
+    "name": "Autism Society of Maine",
+    "mission": "The Autism Society of Maine provides support, resources, and advocacy for individuals with autism and their families in Maine.",
+    "website": "https://www.asmonline.org/",
+    "location": "Maine"
+  },
+  {
+    "resourceId": 125,
+    "name": "Autism Speaks Maryland",
+    "mission": "Autism Speaks Maryland advocates for individuals with autism and their families, funds research, and provides resources in Maryland.",
+    "website": "https://www.autismspeaks.org/",
+    "location": "Maryland"
+  },
+  {
+    "resourceId": 126,
+    "name": "Advocates for Autism of Massachusetts",
+    "mission": "Advocates for Autism of Massachusetts offers advocacy, resources, and support for individuals with autism and their families in Massachusetts.",
+    "website": "https://www.advocatesforautism.org/",
+    "location": "Massachusetts"
+  },
+  {
+    "resourceId": 127,
+    "name": "Autism Society of Michigan",
+    "mission": "The Autism Society of Michigan provides support, education, and advocacy for individuals with autism and their families in Michigan.",
+    "website": "https://autism-mi.org/",
+    "location": "Michigan"
+  },
+  {
+    "resourceId": 128,
+    "name": "Autism Society of Minnesota",
+    "mission": "The Autism Society of Minnesota offers education, support, and resources for individuals with autism and their families in Minnesota.",
+    "website": "https://www.ausm.org/",
+    "location": "Minnesota"
+  },
+  {
+    "resourceId": 129,
+    "name": "Mississippi Autism Board",
+    "mission": "The Mississippi Autism Board provides resources, support, and advocacy for individuals with autism and their families in Mississippi.",
+    "website": "https://msautismboard.org/",
+    "location": "Mississippi"
+  },
+  {
+    "resourceId": 130,
+    "name": "Autism Society of Missouri",
+    "mission": "The Autism Society of Missouri offers support, education, and advocacy for individuals with autism and their families in Missouri.",
+    "website": "https://www.autismmissouri.org/",
+    "location": "Missouri"
+  },
+  {
+    "resourceId": 131,
+    "name": "Montana Autism Center",
+    "mission": "The Montana Autism Center provides resources, training, and support for individuals with autism and their families in Montana.",
+    "website": "https://www.mtautism.org/",
+    "location": "Montana"
+  },
+  {
+    "resourceId": 132,
+    "name": "Autism Society of Nebraska",
+    "mission": "The Autism Society of Nebraska offers support, education, and advocacy for individuals with autism and their families in Nebraska.",
+    "website": "https://autismnebraska.org/",
+    "location": "Nebraska"
+  },
+  {
+    "resourceId": 133,
+    "name": "Nevada Autism Network",
+    "mission": "The Nevada Autism Network provides resources, services, and support for individuals with autism and their families in Nevada.",
+    "website": "https://www.nevadaautism.org/",
+    "location": "Nevada"
+  },
+  {
+    "resourceId": 134,
+    "name": "Autism New Hampshire",
+    "mission": "Autism New Hampshire offers support, resources, and advocacy for individuals with autism and their families in New Hampshire.",
+    "website": "https://www.autismnh.org/",
+    "location": "New Hampshire"
+  },
+  {
+    "resourceId": 135,
+    "name": "Autism New Jersey",
+    "mission": "Autism New Jersey provides support, education, and advocacy for individuals with autism and their families in New Jersey.",
+    "website": "https://www.autismnj.org/",
+    "location": "New Jersey"
+  },
+  {
+    "resourceId": 136,
+    "name": "New Mexico Autism Society",
+    "mission": "The New Mexico Autism Society offers support, education, and advocacy for individuals with autism and their families in New Mexico.",
+    "website": "https://nmautismsociety.org/",
+    "location": "New Mexico"
+  },
+  {
+    "resourceId": 137,
+    "name": "AutismUp (New York)",
+    "mission": "AutismUp provides support, education, and resources for individuals with autism and their families in New York.",
+    "website": "https://autismup.org/",
+    "location": "New York"
+  },
+  {
+    "resourceId": 138,
+    "name": "Autism Society of North Carolina",
+    "mission": "The Autism Society of North Carolina offers support, resources, and advocacy for individuals with autism and their families in North Carolina.",
+    "website": "https://www.autismsociety-nc.org/",
+    "location": "North Carolina"
+  },
+  {
+    "resourceId": 139,
+    "name": "Autism Society of North Dakota",
+    "mission": "The Autism Society of North Dakota provides support, resources, and advocacy for individuals with autism and their families in North Dakota.",
+    "website": "https://www.asnd.org/",
+    "location": "North Dakota"
+  },
+  {
+    "resourceId": 140,
+    "name": "Autism Society of Ohio",
+    "mission": "The Autism Society of Ohio offers support, resources, and advocacy for individuals with autism and their families in Ohio.",
+    "website": "https://autismohio.org/",
+    "location": "Ohio"
+  },
+  {
+    "resourceId": 141,
+    "name": "Autism Oklahoma",
+    "mission": "Autism Oklahoma provides support, resources, and advocacy for individuals with autism and their families in Oklahoma.",
+    "website": "https://www.autismoklahoma.org/",
+    "location": "Oklahoma"
+  },
+  {
+    "resourceId": 142,
+    "name": "Autism Society of Oregon",
+    "mission": "The Autism Society of Oregon offers support, education, and advocacy for individuals with autism and their families in Oregon.",
+    "website": "https://www.autismsocietyoregon.org/",
+    "location": "Oregon"
+  },
+  {
+    "resourceId": 143,
+    "name": "Autism Society of Pennsylvania",
+    "mission": "The Autism Society of Pennsylvania provides support, resources, and advocacy for individuals with autism and their families in Pennsylvania.",
+    "website": "https://www.autismsocietyofpa.org/",
+    "location": "Pennsylvania"
+  },
+  {
+    "resourceId": 144,
+    "name": "Autism Society of Rhode Island",
+    "mission": "The Autism Society of Rhode Island offers support, resources, and advocacy for individuals with autism and their families in Rhode Island.",
+    "website": "https://www.asa-ri.org/",
+    "location": "Rhode Island"
+  },
+  {
+    "resourceId": 145,
+    "name": "Autism Society of South Carolina",
+    "mission": "The Autism Society of South Carolina provides support, resources, and advocacy for individuals with autism and their families in South Carolina.",
+    "website": "https://www.scautism.org/",
+    "location": "South Carolina"
+  },
+  {
+    "resourceId": 146,
+    "name": "South Dakota Autism Society",
+    "mission": "The South Dakota Autism Society offers support, resources, and advocacy for individuals with autism and their families in South Dakota.",
+    "website": "https://sd-autism.org/",
+    "location": "South Dakota"
+  },
+  {
+    "resourceId": 147,
+    "name": "Autism Tennessee",
+    "mission": "Autism Tennessee provides support, resources, and advocacy for individuals with autism and their families in Tennessee.",
+    "website": "https://www.autismtn.org/",
+    "location": "Tennessee"
+  },
+  {
+    "resourceId": 148,
+    "name": "Texans for Autism Awareness",
+    "mission": "Texans for Autism Awareness advocates for individuals with autism and their families, raises awareness, and provides resources in Texas.",
+    "website": "https://www.txautism.net/",
+    "location": "Texas"
+  },
+  {
+    "resourceId": 149,
+    "name": "Utah Autism Foundation",
+    "mission": "The Utah Autism Foundation provides support, resources, and advocacy for individuals with autism and their families in Utah.",
+    "website": "https://utahautismfoundation.org/",
+    "location": "Utah"
+  },
+  {
+    "resourceId": 150,
+    "name": "Autism Society of Vermont",
+    "mission": "The Autism Society of Vermont offers support, resources, and advocacy for individuals with autism and their families in Vermont.",
+    "website": "https://www.autismsocietyofvt.org/",
+    "location": "Vermont"
+  },
+  {
+    "resourceId": 151,
+    "name": "Autism Society of Virginia",
+    "mission": "The Autism Society of Virginia offers support, resources, and advocacy for individuals with autism and their families in Virginia.",
+    "website": "https://www.autismva.org/",
+    "location": "Virginia"
+  },
+  {
+    "resourceId": 152,
+    "name": "Washington Autism Alliance & Advocacy",
+    "mission": "The Washington Autism Alliance & Advocacy provides support, resources, and advocacy for individuals with autism and their families in Washington.",
+    "website": "https://www.washingtonautismadvocacy.org/",
+    "location": "Washington"
+  },
+  {
+    "resourceId": 153,
+    "name": "West Virginia Autism Training Center",
+    "mission": "The West Virginia Autism Training Center offers training, resources, and support for individuals with autism and their families in West Virginia.",
+    "website": "https://wvautism.org/",
+    "location": "West Virginia"
+  },
+  {
+    "resourceId": 154,
+    "name": "Wisconsin Autism Society",
+    "mission": "The Wisconsin Autism Society provides support, education, and advocacy for individuals with autism and their families in Wisconsin.",
+    "website": "https://www.asw4autism.org/",
+    "location": "Wisconsin"
+  },
+  {
+    "resourceId": 155,
+    "name": "Autism Society of Wyoming",
+    "mission": "The Autism Society of Wyoming offers support, resources, and advocacy for individuals with autism and their families in Wyoming.",
+    "website": "https://www.wyomingautism.org/",
+    "location": "Wyoming"
+  },
+  {
+    "resourceId": 201,
+    "name": "National Alliance on Mental Illness (NAMI)",
+    "mission": "NAMI provides education, support, and advocacy for individuals and families affected by mental illness.",
+    "website": "https://www.nami.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 202,
+    "name": "American Psychological Association (APA)",
+    "mission": "APA works to advance the field of psychology and promotes the well-being of individuals and families.",
+    "website": "https://www.apa.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 203,
+    "name": "Association for Behavior Analysis International (ABAI)",
+    "mission": "ABAI promotes the understanding and application of behavior analysis to improve the lives of individuals and families.",
+    "website": "https://www.abainternational.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 204,
+    "name": "Children and Adults with Attention-Deficit/Hyperactivity Disorder (CHADD)",
+    "mission": "CHADD provides support, education, and advocacy for individuals and families affected by ADHD.",
+    "website": "https://chadd.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 205,
+    "name": "Federation of Families for Children's Mental Health",
+    "mission": "The Federation of Families for Children's Mental Health advocates for children's mental health services and supports for families.",
+    "website": "https://www.ffcmh.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 206,
+    "name": "National Association of School Psychologists (NASP)",
+    "mission": "NASP supports school psychologists in promoting mental health, learning, and well-being of all children and families.",
+    "website": "https://www.nasponline.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 207,
+    "name": "National Eating Disorders Association (NEDA)",
+    "mission": "NEDA supports individuals and families affected by eating disorders and promotes awareness, prevention, and treatment.",
+    "website": "https://www.nationaleatingdisorders.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 208,
+    "name": "National Federation of Families for Children's Mental Health",
+    "mission": "The National Federation of Families for Children's Mental Health advocates for the rights of children and youth with emotional, behavioral, and mental health needs.",
+    "website": "https://www.ffcmh.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 209,
+    "name": "American Academy of Child and Adolescent Psychiatry (AACAP)",
+    "mission": "AACAP promotes the healthy development of children, adolescents, and families through advocacy, education, and research in child and adolescent psychiatry.",
+    "website": "https://www.aacap.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 210,
+    "name": "Psychology Today",
+    "mission": "Psychology Today provides a directory of mental health professionals and resources to support individuals and families in finding the help they need.",
+    "website": "https://www.psychologytoday.com/",
+    "location": "National"
+  },
+  {
+    "resourceId": 211,
+    "name": "Alabama Association for Behavior Analysis (ALABA)",
+    "mission": "ALABA promotes the science and practice of behavior analysis in Alabama to improve the lives of individuals and families.",
+    "website": "http://www.alaba.org/",
+    "location": "Alabama"
+  },
+  {
+    "resourceId": 212,
+    "name": "Alaska Psychological Association (AkPA)",
+    "mission": "AkPA supports psychologists and promotes the psychological well-being of individuals, families, and communities in Alaska.",
+    "website": "https://www.ak-pa.org/",
+    "location": "Alaska"
+  },
+  {
+    "resourceId": 213,
+    "name": "Arizona Autism Coalition (AAC)",
+    "mission": "AAC provides resources, education, and advocacy to support individuals with autism and their families in Arizona.",
+    "website": "https://azautism.org/",
+    "location": "Arizona"
+  },
+  {
+    "resourceId": 214,
+    "name": "Arkansas Psychological Association (ArPA)",
+    "mission": "ArPA supports psychologists and promotes psychological well-being in Arkansas through education, advocacy, and professional development.",
+    "website": "https://www.arpapsych.org/",
+    "location": "Arkansas"
+  },
+  {
+    "resourceId": 215,
+    "name": "California Association for Behavior Analysis (CalABA)",
+    "mission": "CalABA promotes the science and application of behavior analysis to improve the well-being of individuals and families in California.",
+    "website": "https://www.calaba.org/",
+    "location": "California"
+  },
+  {
+    "resourceId": 216,
+    "name": "Colorado Psychological Association (CPA)",
+    "mission": "CPA supports psychologists and promotes psychological well-being in Colorado through education, advocacy, and professional development.",
+    "website": "https://www.coloradopsych.org/",
+    "location": "Colorado"
+  },
+  {
+    "resourceId": 217,
+    "name": "Connecticut Association for Behavior Analysis (CTABA)",
+    "mission": "CTABA promotes the science and practice of behavior analysis to improve the lives of individuals and families in Connecticut.",
+    "website": "https://www.ctaba.org/",
+    "location": "Connecticut"
+  },
+  {
+    "resourceId": 218,
+    "name": "Delaware Psychological Association (DPA)",
+    "mission": "DPA supports psychologists and promotes psychological well-being in Delaware through education, advocacy, and professional development.",
+    "website": "https://www.delawarepsych.org/",
+    "location": "Delaware"
+  },
+  {
+    "resourceId": 219,
+    "name": "Florida Association for Behavior Analysis (FABA)",
+    "mission": "FABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Florida.",
+    "website": "https://www.fabaworld.org/",
+    "location": "Florida"
+  },
+  {
+    "resourceId": 220,
+    "name": "Georgia Psychological Association (GPA)",
+    "mission": "GPA supports psychologists and promotes psychological well-being in Georgia through education, advocacy, and professional development.",
+    "website": "https://www.gapsychology.org/",
+    "location": "Georgia"
+  },
+  {
+    "resourceId": 221,
+    "name": "Hawaii Association for Behavior Analysis (HABA)",
+    "mission": "HABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Hawaii.",
+    "website": "https://www.hawaiiaba.org/",
+    "location": "Hawaii"
+  },
+  {
+    "resourceId": 222,
+    "name": "Idaho Association for Behavior Analysis (IdABA)",
+    "mission": "IdABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Idaho.",
+    "website": "https://idahobehavioranalysis.com/",
+    "location": "Idaho"
+  },
+  {
+    "resourceId": 223,
+    "name": "Illinois Association for Behavior Analysis (ILABA)",
+    "mission": "ILABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Illinois.",
+    "website": "https://www.ilaba.org/",
+    "location": "Illinois"
+  },
+  {
+    "resourceId": 224,
+    "name": "Indiana Association for Behavior Analysis (INABA)",
+    "mission": "INABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Indiana.",
+    "website": "https://www.indianaaba.com/",
+    "location": "Indiana"
+  },
+  {
+    "resourceId": 225,
+    "name": "Iowa Association for Behavior Analysis (IowaABA)",
+    "mission": "IowaABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Iowa.",
+    "website": "https://www.iowaaba.org/",
+    "location": "Iowa"
+  },
+  {
+    "resourceId": 226,
+    "name": "Kansas Association for Behavior Analysis (KSABA)",
+    "mission": "KSABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Kansas.",
+    "website": "https://www.ksaba.org/",
+    "location": "Kansas"
+  },
+  {
+    "resourceId": 227,
+    "name": "Kentucky Association for Behavior Analysis (KYABA)",
+    "mission": "KYABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Kentucky.",
+    "website": "https://kyaba.org/",
+    "location": "Kentucky"
+  },
+   {
+    "resourceId": 228,
+    "name": "Louisiana Association for Behavior Analysis (LABA)",
+    "mission": "LABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Louisiana.",
+    "website": "https://www.louisianaaba.org/",
+    "location": "Louisiana"
+  },
+  {
+    "resourceId": 229,
+    "name": "Maine Association for Behavior Analysis (MEABA)",
+    "mission": "MEABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Maine.",
+    "website": "https://www.meaba.org/",
+    "location": "Maine"
+  },
+  {
+    "resourceId": 230,
+    "name": "Maryland Association for Behavior Analysis (MdABA)",
+    "mission": "MdABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Maryland.",
+    "website": "https://www.mdaba.org/",
+    "location": "Maryland"
+  },
+  {
+    "resourceId": 231,
+    "name": "Massachusetts Association for Behavior Analysis (MassABA)",
+    "mission": "MassABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Massachusetts.",
+    "website": "https://www.massaba.net/",
+    "location": "Massachusetts"
+  },
+  {
+    "resourceId": 232,
+    "name": "Michigan Association for Behavior Analysis (MiABA)",
+    "mission": "MiABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Michigan.",
+    "website": "https://www.mi-aba.org/",
+    "location": "Michigan"
+  },
+  {
+    "resourceId": 233,
+    "name": "Minnesota Northland Association for Behavior Analysis (MNABA)",
+    "mission": "MNABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Minnesota.",
+    "website": "https://mnaba.org/",
+    "location": "Minnesota"
+  },
+  {
+    "resourceId": 234,
+    "name": "Mississippi Association for Behavior Analysis (MissABA)",
+    "mission": "MissABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Mississippi.",
+    "website": "https://www.missaba.org/",
+    "location": "Mississippi"
+  },
+  {
+    "resourceId": 235,
+    "name": "Missouri Association for Behavior Analysis (MOABA)",
+    "mission": "MOABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Missouri.",
+    "website": "https://www.mo-aba.org/",
+    "location": "Missouri"
+  },
+  {
+    "resourceId": 236,
+    "name": "Montana Association for Behavior Analysis (MTABA)",
+    "mission": "MTABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Montana.",
+    "website": "https://mtaba.org/",
+    "location": "Montana"
+  },
+  {
+    "resourceId": 237,
+    "name": "Nebraska Association for Behavior Analysis (NEABA)",
+    "mission": "NEABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Nebraska.",
+    "website": "https://nebraskaaba.com/",
+    "location": "Nebraska"
+  },
+   {
+    "resourceId": 238,
+    "name": "Nevada Association for Behavior Analysis (NABA)",
+    "mission": "NABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Nevada.",
+    "website": "https://www.nabaaba.com/",
+    "location": "Nevada"
+  },
+  {
+    "resourceId": 239,
+    "name": "New Hampshire Association for Behavior Analysis (NHABA)",
+    "mission": "NHABA promotes the science and application of behavior analysis to improve the lives of individuals and families in New Hampshire.",
+    "website": "https://www.nh-aba.org/",
+    "location": "New Hampshire"
+  },
+  {
+    "resourceId": 240,
+    "name": "New Jersey Association for Behavior Analysis (NJABA)",
+    "mission": "NJABA promotes the science and application of behavior analysis to improve the lives of individuals and families in New Jersey.",
+    "website": "https://www.njaba.org/",
+    "location": "New Jersey"
+  },
+  {
+    "resourceId": 241,
+    "name": "New Mexico Association for Behavior Analysis (NMABA)",
+    "mission": "NMABA promotes the science and application of behavior analysis to improve the lives of individuals and families in New Mexico.",
+    "website": "https://www.nmaba.org/",
+    "location": "New Mexico"
+  },
+  {
+    "resourceId": 242,
+    "name": "New York State Association for Behavior Analysis (NYSABA)",
+    "mission": "NYSABA promotes the science and application of behavior analysis to improve the lives of individuals and families in New York.",
+    "website": "https://nysaba.org/",
+    "location": "New York"
+  },
+  {
+    "resourceId": 243,
+    "name": "North Carolina Association for Behavior Analysis (NCABA)",
+    "mission": "NCABA promotes the science and application of behavior analysis to improve the lives of individuals and families in North Carolina.",
+    "website": "https://www.nc-aba.com/",
+    "location": "North Carolina"
+  },
+  {
+    "resourceId": 244,
+    "name": "North Dakota Association for Behavior Analysis (NDABA)",
+    "mission": "NDABA promotes the science and application of behavior analysis to improve the lives of individuals and families in North Dakota.",
+    "website": "https://www.nd-aba.org/",
+    "location": "North Dakota"
+  },
+  {
+    "resourceId": 245,
+    "name": "Ohio Association for Behavior Analysis (OHABA)",
+    "mission": "OHABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Ohio.",
+    "website": "https://www.ohaba.org/",
+    "location": "Ohio"
+  },
+  {
+    "resourceId": 246,
+    "name": "Oklahoma Association for Behavior Analysis (OKABA)",
+    "mission": "OKABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Oklahoma.",
+    "website": "https://okaba.org/",
+    "location": "Oklahoma"
+  },
+  {
+    "resourceId": 247,
+    "name": "Oregon Association for Behavior Analysis (ORABA)",
+    "mission": "ORABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Oregon.",
+    "website": "https://oraba.org/",
+    "location": "Oregon"
+  },
+  {
+    "resourceId": 248,
+    "name": "Pennsylvania Association for Behavior Analysis (PABA)",
+    "mission": "PABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Pennsylvania.",
+    "website": "https://pabainfo.org/",
+    "location": "Pennsylvania"
+  },
+  {
+    "resourceId": 249,
+    "name": "Rhode Island Association for Behavior Analysis (RIABA)",
+    "mission": "RIABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Rhode Island.",
+    "website": "https://riaba.org/",
+    "location": "Rhode Island"
+  },
+  {
+    "resourceId": 250,
+    "name": "South Carolina Association for Behavior Analysis (SCABA)",
+    "mission": "SCABA promotes the science and application of behavior analysis to improve the lives of individuals and families in South Carolina.",
+    "website": "https://www.sc-aba.org/",
+    "location": "South Carolina"
+  },
+  {
+    "resourceId": 251,
+    "name": "South Dakota Association for Behavior Analysis (SDABA)",
+    "mission": "SDABA promotes the science and application of behavior analysis to improve the lives of individuals and families in South Dakota.",
+    "website": "https://www.sd-aba.org/",
+    "location": "South Dakota"
+  },
+  {
+    "resourceId": 252,
+    "name": "Tennessee Association for Behavior Analysis (TABA)",
+    "mission": "TABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Tennessee.",
+    "website": "https://www.tnaba.org/",
+    "location": "Tennessee"
+  },
+  {
+    "resourceId": 253,
+    "name": "Texas Association for Behavior Analysis (TxABA)",
+    "mission": "TxABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Texas.",
+    "website": "https://www.txaba.org/",
+    "location": "Texas"
+  },
+  {
+    "resourceId": 254,
+    "name": "Utah Association for Behavior Analysis (UABA)",
+    "mission": "UABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Utah.",
+    "website": "https://www.utahaba.org/",
+    "location": "Utah"
+  },
+  {
+    "resourceId": 255,
+    "name": "Vermont Association for Behavior Analysis (Vermont ABA)",
+    "mission": "Vermont ABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Vermont.",
+    "website": "https://vermontaba.org/",
+    "location": "Vermont"
+  },
+  {
+    "resourceId": 256,
+    "name": "Virginia Association for Behavior Analysis (VABA)",
+    "mission": "VABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Virginia.",
+    "website": "https://www.virginiaaba.org/",
+    "location": "Virginia"
+  },
+  {
+    "resourceId": 257,
+    "name": "Washington Association for Behavior Analysis (WABA)",
+    "mission": "WABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Washington.",
+    "website": "https://washingtonaba.org/",
+    "location": "Washington"
+  },
+  {
+    "resourceId": 258,
+    "name": "West Virginia Association for Behavior Analysis (WVABA)",
+    "mission": "WVABA promotes the science and application of behavior analysis to improve the lives of individuals and families in West Virginia.",
+    "website": "https://www.wvaba.com/",
+    "location": "West Virginia"
+  },
+  {
+    "resourceId": 259,
+    "name": "Wisconsin Association for Behavior Analysis (WisABA)",
+    "mission": "WisABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Wisconsin.",
+    "website": "https://www.wisaba.org/",
+    "location": "Wisconsin"
+  },
+  {
+    "resourceId": 260,
+    "name": "Wyoming Association for Behavior Analysis (WyABA)",
+    "mission": "WyABA promotes the science and application of behavior analysis to improve the lives of individuals and families in Wyoming.",
+    "website": "https://www.wyaba.org/",
+    "location": "Wyoming"
+  },
+  
+  {
+    "resourceId": 261,
+    "name": "Association for Psychological Science (APS)",
+    "mission": "APS promotes the advancement, representation, and dissemination of psychological science to support individuals and families.",
+    "website": "https://www.psychologicalscience.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 262,
+    "name": "National Association for Addiction Professionals (NAADAC)",
+    "mission": "NAADAC provides education, advocacy, and resources for addiction professionals to support individuals and families dealing with addiction.",
+    "website": "https://www.naadac.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 263,
+    "name": "American Association for Marriage and Family Therapy (AAMFT)",
+    "mission": "AAMFT promotes the well-being of individuals and families through the advancement of marriage and family therapy.",
+    "website": "https://www.aamft.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 264,
+    "name": "American Psychological Association (APA)",
+    "mission": "APA advances the science and practice of psychology to benefit individuals and families through research, education, and advocacy.",
+    "website": "https://www.apa.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 265,
+    "name": "Behavior Analyst Certification Board (BACB)",
+    "mission": "BACB promotes and ensures the highest standards in behavior analysis certification to support individuals and families.",
+    "website": "https://www.bacb.com/",
+    "location": "National"
+  },
+  {
+    "resourceId": 266,
+    "name": "Children and Adults with Attention-Deficit/Hyperactivity Disorder (CHADD)",
+    "mission": "CHADD provides education, support, and advocacy for individuals and families affected by ADHD.",
+    "website": "https://chadd.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 267,
+    "name": "Depression and Bipolar Support Alliance (DBSA)",
+    "mission": "DBSA provides support, education, and advocacy for individuals and families affected by depression and bipolar disorder.",
+    "website": "https://www.dbsalliance.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 268,
+    "name": "Families for Depression Awareness",
+    "mission": "Families for Depression Awareness offers education, resources, and support to families coping with depression.",
+    "website": "https://familyaware.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 269,
+    "name": "National Alliance on Mental Illness (NAMI)",
+    "mission": "NAMI provides education, support, and advocacy for individuals and families affected by mental illness.",
+    "website": "https://www.nami.org/",
+    "location": "National"
+  },
+  {
+    "resourceId": 270,
+    "name": "Mental Health America (MHA)",
+    "mission": "MHA works to promote mental health, prevent mental illness, and improve the overall well-being of individuals and families.",
+    "website": "https://www.mhanational.org/",
+    "location": "National"
+  }
+  ]
