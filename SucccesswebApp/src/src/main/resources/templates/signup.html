@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Signup | Success For All</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+        .container {
+            margin: 50px auto;
+            padding: 20px;
+            max-width: 600px;
+            background-color: #f8f9fa;
+        }
+    </style>
+</head>
+
+<body>
+<div class="container">
+  <h2>Signup | Success For All</h2>
+  <form th:action="@{/signup}" th:object="${userDTO}" method="post">
+
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input type="text" class="form-control" id="email" placeholder="Enter email" name="email" th:field="*{email}">
+    </div>
+
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" class="form-control" id="password" placeholder="Enter a password" name="password" th:field="*{password}">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Signup</button>
+  </form>
+</div>
+<div class="container">
+  <p>Already have an account? <a href="/login">Log in</a></p>
+  <p>Back to <a href="/index">home</a></p>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
