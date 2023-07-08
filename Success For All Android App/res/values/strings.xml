@@ -1,0 +1,239 @@
+<resources>
+    <string name="app_name">sfaApp</string>
+    <string name="academic_concerns">Academic concerns</string>
+    <string name="behavior_concerns">Behavior concerns</string>
+    <string name="education_laws">Education laws</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="paragraph_on_academics">
+		 "Common Academic Concerns Reading\n\n
+    "Reading plays a crucial role in a child\'s educational journey and parents may encounter various academic concerns related to their child\'s reading abilities. While each child\'s reading development is unique here are some common academic concerns that parents may come across\n\n"
+    "Difficulty with Phonics Some children may struggle with phonics which involves understanding the relationship between sounds and letters. This can make it challenging for them to decode words and affect their reading fluency. Parents can support their child by practicing phonics skills through interactive games reading aloud together and providing access to phonics-based resources\n\n"
+    "Limited Vocabulary A limited vocabulary can hinder a child\'s reading comprehension and overall reading ability. Parents can help expand their child\'s vocabulary by reading a variety of books together discussing new words and encouraging independent reading. Regular conversations and exposure to a rich language environment are also valuable in enhancing vocabulary skills\n\n"
+    "Struggling with Comprehension Some children may have difficulty understanding and retaining what they read. This could be due to challenges with decoding limited background knowledge or lack of effective reading strategies. Parents can support their child by engaging in meaningful discussions about the reading material asking questions to check comprehension and providing opportunities for practicing summarization and making connections to real-life situations\n\n"
+    "Slow Reading Pace Slow reading pace can impact a child\'s ability to complete reading assignments within a reasonable timeframe. Parents can assist by encouraging regular reading practice breaking down reading tasks into smaller chunks and using techniques such as timed reading sessions or reading aloud to improve reading speed and fluency\n\n"
+    "Lack of Interest or Engagement Some children may show disinterest or lack of engagement in reading activities which can hinder their progress. Parents can help foster a love for reading by offering a variety of reading materials that align with their child\'s interests providing a cozy reading environment and modeling reading behavior by reading alongside their child. Additionally connecting reading to real-life experiences and incorporating technology-based reading resources can enhance engagement\n\n"
+    "Difficulty with Reading Comprehension Tests Reading comprehension tests require students to analyze and interpret texts effectively. If a child struggles with these tests parents can guide them by practicing specific comprehension strategies such as predicting visualizing questioning and summarizing. It can also be beneficial to review test-taking skills such as managing time and understanding question formats\n\n"
+    "Remember that each child\'s reading journey is unique and progress may vary. Patience support and consistent practice are key to addressing academic concerns related to reading. It is important to collaborate with teachers utilize available educational resources and consider seeking additional assistance from educators or reading specialists when necessary\n\n"
+    "Common Academic Concerns Writing\n\n"
+    "Writing skills are fundamental for academic success and effective communication. Parents may encounter various academic concerns related to their child\'s writing abilities. While each child\'s writing development is unique here are some common academic concerns that parents may come across\n\n"
+    "Poor Handwriting Some children may struggle with legible handwriting which can impact their ability to express their thoughts and ideas effectively. Parents can assist their child by providing opportunities for fine motor skill development practicing handwriting exercises and exploring alternative writing tools such as word processors or speech-to-text software\n\n"
+    "Difficulty with Spelling Spelling challenges can hinder a child\'s writing fluency and accuracy. Parents can support their child by encouraging regular spelling practice using mnemonic techniques creating word lists for targeted practice and providing access to spelling resources such as dictionaries or spell-check tools\n\n"
+    "Limited Vocabulary A limited vocabulary can restrict a child\'s ability to express themselves and convey their ideas in writing. Parents can help expand their child\'s vocabulary by encouraging reading engaging in meaningful conversations and introducing new words through activities such as word games word-of-the-day exercises or vocabulary-building apps\n\n"
+    "Poor Sentence Structure and Grammar Difficulties with sentence structure and grammar can affect the clarity and coherence of a child\'s writing. Parents can assist by reviewing grammar rules together providing constructive feedback on sentence construction and encouraging proofreading and editing practices. Online grammar resources and grammar-checking tools can also be beneficial\n\n"
+    "Weak Organization and Structure Some children may struggle with organizing their thoughts and structuring their writing effectively. Parents can support their child by teaching and modeling pre-writing strategies such as brainstorming and outlining and providing guidance on structuring paragraphs and essays. Additionally encouraging revision and peer review can help enhance organizational skills\n\n"
+    "Lack of Creativity or Expression Some children may face challenges in expressing their ideas creatively or with clarity. Parents can foster creativity by encouraging imagination providing writing prompts or storytelling activities and celebrating their child\'s unique ideas and perspectives. Offering opportunities for self-expression through journaling or creative writing exercises can also be beneficial\n\n"
+    "Difficulty with Writing Assignments Writing assignments with specific requirements and guidelines can be overwhelming for some children. Parents can assist by breaking down the task into manageable steps providing structure and guidance and offering support in researching and organizing information. Encouraging time management skills and creating a quiet and conducive writing environment can also be helpful\n\n"
+    "Remember that writing skills develop over time with practice and support. Each child\'s writing journey is unique and progress may vary. Patience encouragement and constructive feedback are key to addressing academic concerns related to writing. It is important to collaborate with teachers utilize available writing resources and consider seeking additional assistance from educators or writing specialists when necessary\n\n"
+    "Common Academic Concerns Math\n\n"
+    "Mathematical skills are essential for academic success and problem-solving abilities. Parents may encounter various academic concerns related to their child\'s math abilities. While each child\'s math development is unique here are some common academic concerns that parents may come across\n\n"
+    "Difficulty with Basic Arithmetic Some children may struggle with basic arithmetic operations such as addition subtraction multiplication and division. Parents can assist their child by providing additional practice opportunities using manipulatives or visual aids and reinforcing math concepts through real-life examples\n\n
+    "Trouble with Number Sense Number sense refers to a child\'s understanding of numbers their magnitude relationships and place value. Some children may have difficulty grasping these concepts which can impact their overall math performance. Parents can support their child by incorporating number sense activities into everyday life playing math games and using concrete materials to reinforce understanding\n\n"
+    "Challenges with Problem Solving Problem-solving skills are crucial in math. Some children may struggle with analyzing problems identifying appropriate strategies and reaching solutions. Parents can help their child develop problem-solving skills by practicing different types of math problems together encouraging logical thinking and guiding them through step-by-step approaches\n\n"
+    "Weakening Conceptual Understanding Math is not just about memorizing procedures but also understanding the underlying concepts. Some children may focus on rote memorization without truly comprehending the principles. Parents can promote conceptual understanding by relating math concepts to real-life situations encouraging explanations and reasoning and providing hands-on learning experiences\n\n"
+    "Difficulty with Fractions and Decimals Fractions and decimals can be challenging for some children due to their abstract nature. Parents can help their child by using visual representations practicing fraction and decimal operations and relating these concepts to everyday examples such as sharing food or calculating money\n\n"
+    "Struggles with Geometry Geometry involves understanding shapes angles spatial relationships and measurements. Some children may have difficulty visualizing geometric concepts. Parents can support their child by using manipulatives engaging in activities that involve building and exploring shapes and discussing real-world applications of geometry.\n\n"
+    "Anxiety or Lack of Confidence Math anxiety or a lack of confidence can hinder a child's math performance. Parents can create a positive and supportive environment by celebrating small successes, encouraging a growth mindset and seeking opportunities for the child to build confidence through achievable math tasks.\n\n"
+    "Remember that math skills develop over time with practice and support. Each child\'s math journey is unique and progress may vary. Patience, encouragement and a growth mindset are key to addressing academic concerns related to math. Collaborating with teachers, utilizing available math resources and considering additional assistance from educators or math specialists when needed can also be beneficial."
+    </string>
+    <string name="paragraph_on_behavior">"Behavior Concerns\n\n"
+    "Common Behavior Parent Concerns\n\n"
+    "Parents often encounter various behavior concerns while raising their children. While it is essential to address each concern with individualized attention, here are some common behavior concerns that parents may encounter:\n\n"
+    "Disrespect and Backtalk Children sometimes exhibit disrespectful behavior or engage in backtalk which can be challenging for parents to handle. It is important for parents to set clear boundaries, promote respectful communication and teach their children appropriate ways to express their emotions.\n\n"
+    "Abusive Language Some older children may use abusive language including profanity or derogatory remarks. Parents should address this concern promptly by discussing the impact of such language, establishing consequences and promoting positive and respectful communication within the family.\n\n"
+    "Aggressive or Violent Behavior Aggression and violence such as physical fights or outbursts can be alarming for parents. It is crucial to address the underlying causes of such behavior, provide appropriate discipline, teach anger management and conflict resolution skills and seek professional help if necessary.\n\n"
+    "Lying Children may resort to lying as a way to avoid consequences or seek attention. Parents should emphasize the importance of honesty, create an environment where children feel comfortable admitting mistakes and encourage open and honest communication to discourage lying.\n\n"
+    "Bullying Bullying behavior whether exhibited by the child or experienced by the child requires immediate attention. Parents should teach empathy, educate their child about the negative effects of bullying, establish a supportive home environment and collaborate with school authorities to address the issue effectively.\n\n"
+    "Manipulation Some children may exhibit manipulative behavior to get their way or avoid responsibilities. Parents can address this concern by setting clear expectations, promoting problem-solving skills, reinforcing positive behaviors and teaching the importance of honesty and respect for others.\n\n"
+    "Lack of Motivation and Laziness Parents often worry when their child shows a lack of motivation or displays laziness towards tasks and responsibilities. It is important for parents to understand potential underlying factors, provide guidance and support, establish routines, set achievable goals and"
+    "encourage their child's interests and passions.\n\n"
+        "Each child is unique and behavior concerns may require different approaches based on their age, temperament and individual circumstances. Open communication, consistent discipline, positive reinforcement and seeking professional guidance when needed can "
+    "help address these behavior concerns effectively."
+    </string>
+    <string name="paragraph_on_laws">
+        "Laws\n\n"
+"Special Education Federal Laws\n\n"
+"Special education in the United States is governed by several federal laws aimed at ensuring that students with disabilities receive appropriate educational services. These laws along with individual state laws provide legal protections and guidelines for the identification, evaluation and provision of special education and related services to eligible students."
+"Here are some key federal laws related to special education:\n\n"
+"Individuals with Disabilities Education Act (IDEA)\n"
+"The Individuals with Disabilities Education Act (IDEA) is the main federal law governing special education. It ensures that children with disabilities have access to a free and appropriate public education (FAPE) and receive special education services tailored to their individual needs."
+"IDEA outlines the rights of students with disabilities and their families and mandates the provision of an individualized education program (IEP) for each eligible student.\n\nSection 504 of the Rehabilitation Act\nSection 504 of the Rehabilitation Act prohibits discrimination based on disability in programs receiving federal financial assistance. It provides protections and reasonable accommodations for students"
+"with disabilities who may not qualify for special education under IDEA but still require supports and modifications to fully participate in educational programs and activities.\n\n"
+"Americans with Disabilities Act (ADA)\n"
+"The Americans with Disabilities Act (ADA) is a comprehensive civil rights law that prohibits discrimination against individuals with disabilities in various domains including education."
+"ADA ensures equal access and nondiscrimination in public schools, colleges and universities. It mandates reasonable accommodations and modifications to ensure students with disabilities can fully participate in educational programs and activities.\n\n"
+"Family Educational Rights and Privacy Act (FERPA)\n"
+"The Family Educational Rights and Privacy Act (FERPA) protects the privacy of students\' educational records."
+"It grants parents and eligible students (18 years or older) the right to access and control the release of their education records including special education records. FERPA also sets guidelines for the confidentiality of students' personally identifiable information.\n\n"
+"Elementary and Secondary Education Act (ESEA)\n"
+"The Elementary and Secondary Education Act (ESEA) currently known as the Every Student Succeeds Act (ESSA)"
+"addresses various aspects of elementary and secondary education including provisions for students with disabilities. ESSA emphasizes educational equity, accountability and the inclusion of students with disabilities in state accountability systems.\n\n"
+"No Child Left Behind (NCLB) Act\n"
+"The No Child Left Behind (NCLB) Act was a federal education law enacted in 2001 with the goal of improving educational"
+"outcomes for all students. NCLB emphasized standards-based education reform, increased accountability for schools and districts and targeted resources to low-income schools. It required annual standardized testing in reading and math for students in grades 3-8 as well as high school.\n\n"
+"Under NCLB schools were held accountable for meeting adequate yearly progress (AYP) goals and consequences were"
+"imposed for schools that failed to make progress. The law aimed to close achievement gaps, increase academic proficiency and ensure that all students had access to a high-quality education.\n\n"
+"However it is important to note that NCLB received criticism for its heavy emphasis on high-stakes testing, narrowing curriculum and punitive measures for struggling schools. As a result it was replaced by the Every Student Succeeds Act"
+"(ESSA) in 2015.\n\n"
+"Every Student Succeeds Act (ESSA)\n"
+"The Every Student Succeeds Act (ESSA) is the current federal education law in the United States replacing NCLB. ESSA provides states with greater flexibility and control over their education systems while still maintaining a focus on accountability, equity and ensuring that all students have access to a quality education.\n\n"
+"Under ESSA states develop their own accountability systems"
+"which include measures of student academic achievement, school quality and student success indicators. It encourages a more comprehensive approach to assessing school performance and supports the use of multiple measures beyond just test scores. ESSA also places a stronger emphasis on personalized learning, student support services and the needs of English language learners and students with disabilities.\n\n"
+"ESSA continues to require schools to address achievement gaps and provide targeted support to low-performing schools. It promotes evidence-based interventions, encourages family and community engagement and maintains the federal commitment to providing equitable educational opportunities for all students.\n\n"
+"These federal laws along with their subsequent amendments and court interpretations provide the legal framework for special education services"
+"in the United States. They aim to ensure that students with disabilities have equal educational opportunities and access to the necessary supports to reach their full potential."
+</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_signup">Login/Signup</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register_here">Register Here</string>
+    <string name="already_haven_an_account">Already haven an account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_and_logout">Settings and Logout</string>
+    <string name="search">Search</string>
+    <string name="logout">Logout</string>
+    <string name="concern_name">Concern name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="remember_your_password">Remember your password?</string>
+    <string name="forgot_password_label">Forgot Password</string>
+    <string name="not_yet">Not yet.</string>
+    <string name="information">Information</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="age">Age</string>
+    <string name="street_address">Street Address</string>
+    <string name="state">State</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="country">Country</string>
+    <string name="number_of_children">Number of Children</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="child_of_concern_s_name">Child of concern\'s name</string>
+    <string name="concerns">Concerns</string>
+    <string name="submit">Submit</string>
+    <string name="city_or_town">City or Town</string>
+    <string name="go_back">Go back</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="phone_number">Phone number</string>
+</resources>

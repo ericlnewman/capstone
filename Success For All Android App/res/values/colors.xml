@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="colorPrimary">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#A6A5A5</color>
+    <color name="background">#F0F4F3</color>
+    <color name="statusbar">#50c2c9</color>
+    <color name="forgotpassword">#7cc2c9</color>
+    <color name="signup">#134b4f</color>
+
+</resources>
