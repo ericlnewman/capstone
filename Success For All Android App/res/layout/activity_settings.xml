@@ -1,0 +1,162 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/title"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/information"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        >
+
+    </TextView>
+    <!-- First Name -->
+    <EditText
+        android:id="@+id/firstNameField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/first_name"/>
+
+    <!-- Last Name -->
+    <EditText
+        android:id="@+id/lastNameField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/last_name"/>
+
+    <!-- Age -->
+    <Spinner
+        android:id="@+id/ageSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/age"
+        android:padding="10dp"/>
+
+    <!-- Street Address -->
+    <EditText
+        android:id="@+id/streetAddressField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/street_address"/>
+    <!-- City Address -->
+    <EditText
+        android:id="@+id/cityField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/city_or_town"/>
+
+    <!-- State -->
+    <EditText
+        android:id="@+id/stateField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/state"/>
+
+    <!-- Zip Code -->
+    <EditText
+        android:id="@+id/zipCodeField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="@string/zip_code"/>
+
+    <!-- Country -->
+    <EditText
+        android:id="@+id/countryField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/country"/>
+
+    <!-- Phone -->
+    <EditText
+        android:id="@+id/phoneField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/phone_number"/>
+
+    <!-- Number of Children -->
+    <Spinner
+        android:id="@+id/numberOfChildrenSpinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/number_of_children"
+        android:padding="10dp"/>
+
+    <!-- Gender (Radio Buttons) -->
+    <RadioGroup
+        android:id="@+id/genderRadioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        >
+
+        <RadioButton
+            android:id="@+id/maleRadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/male"/>
+
+        <RadioButton
+            android:id="@+id/femaleRadioButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/female"/>
+    </RadioGroup>
+
+    <!-- Child of Concern -->
+    <EditText
+        android:padding="10sp"
+        android:id="@+id/childOfConcern"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/child_of_concern_s_name"/>
+
+    <!-- Concerns -->
+    <EditText
+        android:padding="10sp"
+        android:id="@+id/concernsField"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/concerns"/>
+
+    <!-- Submit Buttons -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/delete_foreground"
+            android:background="@color/white"/>
+
+        <ImageButton
+            android:id="@+id/goBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/goback_foreground"
+            android:background="@color/white"/>
+
+        <ImageButton
+            android:id="@+id/submitButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/submit_foreground"
+            android:background="@color/white"/>
+    </LinearLayout>
+
+
+</LinearLayout>
